@@ -7,7 +7,8 @@
 
 nav {
   width: 100px;
-  color: #F90; }
+  color: #F90;
+  font-size: 14px; }
 
 .selected {
   border: 1px solid #F90; }
